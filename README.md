@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-repositorio de prueba del modulo 2 de Henry
+prueba de clonacion desde github a mi computadora
